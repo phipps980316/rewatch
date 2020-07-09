@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ReWatch</string>
+    <string name="title_series">Series</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_activity_series">ReWatch</string>
+    <string name="title_collection">Collection</string>
+    <string name="title_watchlist">Watchlist</string>
+</resources>
